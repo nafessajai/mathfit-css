@@ -20,7 +20,7 @@ function Questions({userHighScore, username, ghighscore, ghighuser, prompt}){
     const [rend, setRender] = useState(false);
     const [temp, setTemp] = useState(false);
     let question = useRef("");
-    const MY_KEY = "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";
+    const MY_KEY = "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";
     // pick a question
 
     // async function generateQuestion() {
